@@ -1,0 +1,19 @@
+{
+  "name": "test-mochapack-coffee",
+  "version": "0.1.0",
+  "description": "testing mochapack with coffeescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeboshi2/test-mochapack-coffee.git"
+  },
+  "author": "Joseph Rawson <joseph.rawson.works@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/umeboshi2/test-mochapack-coffee/issues"
+  },
+  "homepage": "https://github.com/umeboshi2/test-mochapack-coffee#readme"
+}
